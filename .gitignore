@@ -13,7 +13,7 @@ ignore*
 test_inv
 # VSCode
 .vscode
-
+site-artifact*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
